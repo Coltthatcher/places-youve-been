@@ -13,7 +13,7 @@ DestinationLog.prototype.assignId = function() {
   return this.currentId;
 };
 
-//Destination Business Logic
+//Destination of Business Logic
 function Destination(location, landmark, notes) {
   this.location = location;
   this.landmark = landmark;
